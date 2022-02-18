@@ -1,3 +1,8 @@
+### `App screenshots`
+
+<img src="https://github.com/zroday/simple-react-dashboard/blob/main/screenshot/Screenshot_0.png" width="30%"></img> <img src="https://github.com/zroday/simple-react-dashboard/blob/main/screenshot/Screenshot_1.png" width="30%"></img> <img src="https://github.com/zroday/simple-react-dashboard/blob/main/screenshot/Screenshot_2.png" width="30%"></img> <img src="https://github.com/zroday/simple-react-dashboard/blob/main/screenshot/Screenshot_3.png" width="30%"></img> <img src="https://github.com/zroday/simple-react-dashboard/blob/main/screenshot/Screenshot_4.png" width="30%"></img> <img src="https://github.com/zroday/simple-react-dashboard/blob/main/screenshot/Screenshot_5.png" width="30%"></img> <img src="https://github.com/zroday/simple-react-dashboard/blob/main/screenshot/Screenshot_6.png" width="30%"></img> <img src="https://github.com/zroday/simple-react-dashboard/blob/main/screenshot/Screenshot_7.png" width="30%"></img> 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
